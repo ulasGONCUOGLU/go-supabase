@@ -1,2 +1,3 @@
 # go-supabase
  
+go run .

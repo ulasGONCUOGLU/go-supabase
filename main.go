@@ -3,7 +3,6 @@ package main
 import (
 	"fmt"
 	"strings"
-	"go-supabase/mili_mili"
 
 	"github.com/supabase-community/supabase-go"
 )
